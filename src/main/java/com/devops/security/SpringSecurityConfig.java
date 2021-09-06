@@ -1,4 +1,4 @@
-package com.reljicd.security;
+package com.devops.security;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
@@ -10,7 +10,7 @@ import org.springframework.security.config.annotation.web.configuration.WebSecur
  * http://docs.spring.io/spring-boot/docs/current/reference/html/howto-security.html
  * Switches off Spring Boot automatic security configuration
  *
- * @author reljicd
+ * @author devops
  */
 @EnableWebSecurity
 @Configuration

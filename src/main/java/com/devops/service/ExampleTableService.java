@@ -1,8 +1,8 @@
-package com.reljicd.service;
-
-import com.reljicd.dto.ExampleTableDTO;
+package com.devops.service;
 
 import java.util.Collection;
+
+import com.devops.dto.ExampleTableDTO;
 
 public interface ExampleTableService {
 

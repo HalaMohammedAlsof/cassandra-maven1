@@ -1,6 +1,6 @@
-package com.reljicd.dto;
+package com.devops.dto;
 
-import com.reljicd.entity.ExampleTable;
+import com.devops.entity.ExampleTable;
 import com.univocity.parsers.annotations.Parsed;
 
 import java.util.Objects;

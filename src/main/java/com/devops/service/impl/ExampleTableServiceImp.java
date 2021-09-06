@@ -1,10 +1,11 @@
-package com.reljicd.service.impl;
+package com.devops.service.impl;
 
-import com.reljicd.dto.ExampleTableDTO;
-import com.reljicd.repository.ExampleTableRepository;
-import com.reljicd.service.ExampleTableService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+
+import com.devops.dto.ExampleTableDTO;
+import com.devops.repository.ExampleTableRepository;
+import com.devops.service.ExampleTableService;
 
 import java.util.Collection;
 import java.util.stream.Collectors;

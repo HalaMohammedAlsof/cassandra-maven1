@@ -1,12 +1,13 @@
-package com.reljicd.entity;
+package com.devops.entity;
 
 
-import com.reljicd.dto.ExampleTableDTO;
 import org.springframework.cassandra.core.PrimaryKeyType;
 import org.springframework.data.cassandra.mapping.PrimaryKey;
 import org.springframework.data.cassandra.mapping.PrimaryKeyClass;
 import org.springframework.data.cassandra.mapping.PrimaryKeyColumn;
 import org.springframework.data.cassandra.mapping.Table;
+
+import com.devops.dto.ExampleTableDTO;
 
 import java.io.Serializable;
 import java.util.Objects;

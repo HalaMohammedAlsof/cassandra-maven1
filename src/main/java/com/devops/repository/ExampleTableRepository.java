@@ -1,8 +1,9 @@
-package com.reljicd.repository;
+package com.devops.repository;
 
-import com.reljicd.entity.ExampleTable;
 import org.springframework.data.cassandra.repository.Query;
 import org.springframework.data.repository.CrudRepository;
+
+import com.devops.entity.ExampleTable;
 
 import java.util.List;
 
